@@ -1,0 +1,10 @@
+{
+  "jsonrpc":"2.0",
+  "id":1,
+  "method":"author_insertKey",
+  "params": [
+    "aura",
+    "enter zebra salt arrest vanish ridge squirrel find potato nurse work creek",
+    "0x0a190823403b8b1de4c3d713d96673fb66a883681f12e5165c26cc8219629626"
+  ]
+}
